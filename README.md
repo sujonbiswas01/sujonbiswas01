@@ -63,7 +63,7 @@ Full-Stack Developer building scalable SaaS & production-ready web apps | React,
 ### 📌 Project 1: BiteBase – AI-Powered Food Ordering Platform
 
 - 🔹 BiteBase is an AI-driven food ordering platform for smart discovery, real-time orders, and scalable multi-vendor management.
-- 🔹 Tech Stack: Next.js,tailwindcss,typescript, Express, PostgreSQL,Prisma,jwt,stripe
+- 🔹 Tech Stack: Next.js,tailwindcss,typescript, Express, PostgreSQL,Prisma,RAG,jwt,stripe
 - 🔹 [live demo](https://full-stack-ecommerce-frontend-websi.vercel.app)
 - 🔹 [GitHub Repo](https://github.com/sujonbiswaseng/full-stack-ecommerce-frontend-food-website.git)
 
@@ -72,7 +72,7 @@ Full-Stack Developer building scalable SaaS & production-ready web apps | React,
 ### 📌 Project 2 : Lumen – AI-Powered Event Management Platform
 
 - 🔹 Lumen is a scalable full-stack event management platform that simplifies event discovery, ticketing, and real-time participant management with AI-driven insights and role-based control.
-- 🔹 Tech Stack: Next.js,tailwindcss,typescript, Express, PostgreSQL,Prisma,jwt,stripe
+- 🔹 Tech Stack: Next.js,tailwindcss,typescript, Express, PostgreSQL,Prisma,RAF,jwt,stripe
 - 🔹 [live demo](https://lumen-frontend-project.vercel.app)
 - 🔹 [GitHub Repo](https://github.com/sujonbiswaseng/lumen-frontend-project.git)
 
