@@ -13,9 +13,9 @@ Full-Stack Developer building scalable SaaS & production-ready web apps | React,
 - 💬 Ask me about: **tailwindcss,bootstrap,JavaScript,Typescript, React,Next.js, Node.js,expressjs,  Prisma,PostgreSQL ,Docker**
 - 📍 Location: **Sylhet, Bangladesh**
 
-- 📫 How to reach me: **sujonbiswasdev@gmail.com**
+- 📫 How to reach me: **sujonbiswas7762@gmail.com**
 - 🌐 Portfolio: **https://sujonbiswasdev.vercel.app**
-- 📄 Resume: **[Resume](https://drive.google.com/file/d/1wCNofVNfM7zXPdenB-zH6ruUATlBYPxJ/view?usp=sharing)**
+- 📄 Resume: **[Resume](https://drive.google.com/file/d/1ojtmUKLqn1RdtVetXv1_nY6rCcYBbCBI/view?usp=sharing)**
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/sujonbiswaseng**
 
